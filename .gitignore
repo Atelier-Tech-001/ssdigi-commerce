@@ -30,6 +30,9 @@ yarn-error.log*
 .env*
 !.env.example
 
+# local shopify
+.env.local
+
 # vercel
 .vercel
 
